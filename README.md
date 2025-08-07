@@ -18,3 +18,23 @@ This project was created for educational purposes to learn smart contract develo
 - GitHub
 # MyFirstToken
 My first ERC20 token on Ethereum
+# MyFirstToken
+
+This project contains the source code for an ERC-20 compatible token written in Solidity.  
+The token is designed to be deployed on the Ethereum-compatible Base network.
+
+## Features
+- ✅ Fully ERC20 compatible
+- ✅ Configurable token name, symbol, and supply
+- ✅ Deployed on Base Goerli testnet
+
+## Contract Details
+- Token Name: MyFirstToken
+- Symbol: MFT
+- Decimals: 18
+- Total Supply: 1,000,000 MFT
+
+## Built With
+- Solidity (0.8.x)
+- Remix IDE
+- MetaMask + Base Goerli Testnet
