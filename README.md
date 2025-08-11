@@ -18,3 +18,4 @@ This project was created for educational purposes to learn smart contract develo
 - GitHub
 # MyFirstToken
 My first ERC20 token on Ethereum
+--------------------------------
